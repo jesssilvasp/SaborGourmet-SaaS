@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Gastronômico - PDV e Gestão",
+  "description": "Sistema completo de vendas, PDV, cardápio digital, gestão de estoque, caixa, entregas e KDS para restaurantes e lanchonetes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
